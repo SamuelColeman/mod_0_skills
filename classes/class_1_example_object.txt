@@ -1,13 +1,13 @@
 Mrs. Morin
 
 Attributes:
-Subject: Anatomy
+Subject: "Anatomy"
 NumberOfClasses: 4
 NumberOfStudentsPerClass: 25
-FavoriteStudents: [Sam, Bob, Tim, Sally]
+FavoriteStudents: ["Sam", "Bob", "Tim", "Sally"]
 
 Methods:
 TotalStudentsTaught: 4*25 = 100
-AddFavoriteStudent: [Sam, Bob, Tim, Sally, Jean]
-DeleteFavoriteStudent: [Bob, Tim, Sally, Jean]
+AddFavoriteStudent: ["Sam", "Bob", "Tim", "Sally", "Jean"]
+DeleteFavoriteStudent: ["Bob", "Tim", "Sally", "Jean"]
 AddClass: 4+1 = 5

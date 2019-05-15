@@ -1,0 +1,13 @@
+Classroom
+
+Attributes:
+Color(string)
+TotalCapacity(integer)
+CurrentCapacity(integer)
+Posters(array)
+
+Methods:
+PaintRoom(change the color string)
+CurrentEmptyChairs(subtract CurrentCapacity from TotalCapacity)
+AddPoster(adds a new poster to the Posters array)
+RemoverPoster(removes existing poster from the Posters array)

@@ -1,0 +1,13 @@
+Teacher
+
+Attributes:
+Subject(string)
+NumberOfStudentsPerClass(integer)
+NumberOfClasses(integer)
+FavoriteStudents(array)
+
+Methods:
+TotalStudentsTaught(NumberOfClasses multiplied by NumberOfStudentsPerClass)
+AddFavoriteStudent(adds a new students to FavoriteStudents array)
+DeleteFavoriteStudent(deletes an existing student from FavoriteStudents array)
+AddClass(adds 1 to NumberOfClasses)

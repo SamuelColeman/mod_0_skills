@@ -1,0 +1,13 @@
+Science Lab
+
+Attributes:
+Color: "Blue"
+TotalCapacity: 25
+CurrentCapacity: 18
+Posters: ["Motivational Poster", "Periodic Table"]
+
+Methods:
+PaintRoom: "White"
+CurrentEmptyChairs: 25-18 = 7
+AddPoster: ["Motivational Poster", "Periodic Table", "Funny Poster"]
+RemovePoster: ["Periodic Table", "Funny Poster"]
